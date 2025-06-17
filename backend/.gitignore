@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.Python
+env/
+venv/
+*.env
+.pytest_cache/
+.mypy_cache/
+
+# Database
+*.db
+*.sqlite
+/test.db # For the test database
+
+# IDEs
+.idea/
+.vscode/
+
+# Docker
+.dockerignore
